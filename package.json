@@ -37,7 +37,7 @@
     "react": ">=17.0.2"
   },
   "dependencies": {
-    "tmx-parser": "github:eioo/node-tmx-parser"
+    "tmx-parser": "github:kenlck/node-tmx-parser"
   },
   "devDependencies": {
     "concurrently": "^6.2.0",
